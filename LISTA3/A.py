@@ -2,8 +2,8 @@ n = int(input())
 c = int(input())
 while c != n:
     if c > n:
-        print("O número correto e menor.")
+        print("O número correto é menor.")
     elif c < n:
-        print ("O numero corretóe maior.")
+        print ("O número correto é maior.")
     c = int(input())
-print("Parabens! Voce acertou.")
+print("Parabéns! Você acertou.")
